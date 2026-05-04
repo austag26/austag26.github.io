@@ -129,6 +129,12 @@ li {
     color: ghostwhite;
 }
 
+.announcement{
+    background: gainsboro;
+    padding: 1px;
+    text-align: center;
+}
+
 #postamble{
     font-size: 80%;
 }
