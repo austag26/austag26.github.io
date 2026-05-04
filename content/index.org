@@ -1,6 +1,10 @@
 #+title: Algebraic Geometry in Melbourne 
 #+subtitle: 8--10 July 2026 
 
+#+begin_announcement
+[[file:poster.pdf][Here is a poster (PDF, 6.1MB)]] to advertise this event.
+#+end_announcement
+
 * Venue
 :PROPERTIES:
 :UNNUMBERED: notoc
@@ -47,5 +51,5 @@ We are not sure if we can offer any financial support.
 :PROPERTIES:
 :UNNUMBERED: notoc
 :END:
-This event is supported in part by funds from the Australian Research Council.
+We are supported in part by funds from the Australian Research Council.
 
