@@ -1,4 +1,7 @@
-html,
+html{
+  scroll-behavior: smooth;
+}
+
 body {
   font-size: 16px;
   font-family: system-ui, sans-serif;
@@ -124,7 +127,7 @@ li {
 
 .title{
     background: url("title.jpg");
-    background-postion: center;
+    background-position: center;
     padding: 1em;
     color: ghostwhite;
 }
