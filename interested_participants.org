@@ -1,4 +1,5 @@
 | Name             | Uni      | Supervisor      | Wants financial support? |
 |------------------+----------+-----------------+--------------------------|
 | Stefano Giannini | Adelaide | Finnur Larusson | Yes                      |
+| Dominic Matan    | UNSW     | Daniel Chan     | Yes                      |
 
