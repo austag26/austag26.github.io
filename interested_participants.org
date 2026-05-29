@@ -2,4 +2,5 @@
 |------------------+----------+-----------------+--------------------------|
 | Stefano Giannini | Adelaide | Finnur Larusson | Yes                      |
 | Dominic Matan    | UNSW     | Daniel Chan     | Yes                      |
+| Snehinh Sen      | ANU      | James Borger    | Yes                      |
 
